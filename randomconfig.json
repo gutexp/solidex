@@ -1,24 +1,11 @@
 {
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "java.semanticHighlighting.enabled": true,
-    "maven.executable.preferMavenWrapper": true,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "java.project.importOnFirstTimeStartup": "automatic",
     "workbench.iconTheme": "material-icon-theme",
-    //configs java
-    "boot-java.change-detection.on": true,
-    "boot-java.validation.spel.on": true,
-    "java.home": "C:\\Program Files\\Java\\jdk-15.0.1",
-    "java.configuration.checkProjectSettingsExclusions": false,
     //configs de perfumarias
     "workbench.colorTheme": "Dracula",
     "terminal.integrated.fontSize": 14,
     "workbench.editor.labelFormat": "short",
-    //configuração da fonte atual
-    "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 14,
-    "editor.fontLigatures": true,
 
     //configs typescript/javascript
     "javascript.updateImportsOnFileMove.enabled": "never",
